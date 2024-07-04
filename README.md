@@ -13,7 +13,7 @@ Clone the repository to a directory of your choice.
 git clone https://github.com/zjp/chimerax-emacs ~/.emacs.d/chimerax-emacs
 ```
 
-Then in your `init.el`, load the project require it.
+Then in your `init.el`, load the project and require it.
 
 ``` emacs-lisp
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/chimerax-emacs"))
