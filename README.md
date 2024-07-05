@@ -4,6 +4,9 @@
 
 This package provides a REPL that uses the ChimeraX REST server to allow you to send commands to ChimeraX from Emacs. Mostly a hatchet job on `dap-ui-repl` code.
 
+## Demo
+[demo.webm](https://github.com/zjp/chimerax-emacs/assets/33698018/6fd03adc-e297-4e9d-82a1-7d6e3350094d)
+
 ## Installation
 
 ### Manual
